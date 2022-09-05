@@ -1,5 +1,9 @@
 # 概要
-こちらは技術書展13で出展した**タイトル**の**ARKitBlendShape を使った表情一致ゲームを作る**のリポジトリです。
+こちらは技術書展13で出展した**タイトル**に書かれた**ARKitBlendShape を使った表情一致ゲームを作る**のリポジトリになります。
 
 # 使い方
-本書で紹介した、[BlendShapeController.cs](https://github.com/UetaKento/TechBook2022/blob/main/Assets/Kenty/Scripts/BlendShapeController.cs)のコピー＆ペーストや、
+- [BlendShapeController.cs](https://github.com/UetaKento/TechBook2022/blob/main/Assets/Kenty/Scripts/BlendShapeController.cs)のコピー＆ペースト
+- FaceBlendShapesGameシーンのビルドや、アプリのプレイ
+- このゲームの改変
+
+などに使っていただけると幸いです。
