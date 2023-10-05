@@ -1,5 +1,5 @@
 # 概要
-こちらは技術書展13で出展した**IwakenLab TechBook #1**に書かれた**ARKit　BlendShape を使った表情一致ゲームを作る**のリポジトリになります。
+こちらは技術書展13で出展した**IwakenLab TechBook #1**に書かれた**ARKit BlendShape を使った表情一致ゲームを作る**のリポジトリになります。
 
 # 完成品
 ![image21](https://user-images.githubusercontent.com/69253001/188482484-423979d4-a56a-4abd-8614-2cde0ce641b7.png)
